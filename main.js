@@ -7,7 +7,7 @@ async function execute(){
     canvas.height = innerHeight;
     const ctx = canvas.getContext('2d');
 
-    const img = 'https://byline.network/wp-content/uploads/2021/03/youtube-creators-comedy-2.jpg';
+    const img = 'https://img2.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/19/mydaily/20251219224235074zshe.png';
     const image = new Image();
     image.src = img;
 
